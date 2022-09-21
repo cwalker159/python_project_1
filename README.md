@@ -1,2 +1,2 @@
-# python_starwars_lightsaber
+# starwars
 First project in Python 
